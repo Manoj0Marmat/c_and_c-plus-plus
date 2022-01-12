@@ -6,10 +6,8 @@
 #include<stdio.h>
 #include<math.h>
 int main(void){
-    double x;
-    printf("enter value between (0, 1): ");
-    scanf("%lf",&x);
-    if(x>=0 && x<=1){
-        printf("sine value is: %lf",sin(x));
-    }    
+    Value = (0, 1);
+    result = sin(x);
+    printf("the sin of %f is %f \n",result);
+    return 0;
 }
