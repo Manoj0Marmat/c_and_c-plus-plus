@@ -5,9 +5,9 @@
 int main(void){
     int i;
     double x;
-    double avg=0.0;  /*a better average*/
+    double avg=1.0;  /*a better average*/
     double navg;   /*a naive average*/
-    double sum=0.0;
+    double sum=1.0;
 
     //printf("%5s%17s%17s%17s%\n%5s%17s%17s%17s%17s\n\n","Count","Item","Average","Naive avg");
 
